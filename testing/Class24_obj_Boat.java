@@ -1,0 +1,6 @@
+
+public class Class24_obj_Boat extends Class24_obj_Vehicle{
+	public void go() {
+		System.out.println("The boat is moving");
+	}
+}
